@@ -1,0 +1,44 @@
+Q1: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A1: Viewing a diff between two versions of a file signified lines that had been added or removed. So instead of having to review every single line of the code. I only had to review lines that had changed.
+
+Q2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A2: If any mistakes are made or bugs arise, you can easily refer back to an old version of code. Instead of having to review every single line of code, you only need to review the lines that changed. Version control also makes it easier so that other programmers can edit the code simultaneously. Version control can help reveal any conflicts when multiple programmers are editing code.
+
+Q3: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A3: A pro is that choosing when to save makes it so that commits are easier to navigate due to having commits only when there is a logical change instead of every single minor change. A con is that there is more risk to lose a change that you made if you are not automatically saving.
+
+Q4: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+A4: When coding, some files are related to each other and changes in one file can very well affect the other. In Google Docs, while files may be related, they aren't as crucially reliant on each other like programming files.
+
+Q5: How can you use the commands git log and git diff to view the history of files?
+
+A5: You can use git log to see all the commits that were made and you can use git diff to see the differences between each commit to see the changes that were made from commit to commit.
+
+Q6: How might using version control make you more confident to make changes that could break something?
+
+A6: You shouldn't be afraid to make changes, because you can always revert back to an old version that you know works.
+
+Q7: Now that you have your workspace set up, what do you want to try using Git for?
+
+A7: I'd like to be able to edit the landing page for my company's web page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
