@@ -9,3 +9,6 @@ A3: When you're making edits you're less likely to have to deal with conflicts i
 
 Q4: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A4: Without using Git or Github you would have to manually check each file for conflicts and/or go over your changes with the people you are collaborating with. This could be pretty hard considering some code could be thousands or millions of lines long. Git makes this easier by auto-merging files that don't have conflicts and highlighting files that have conflicts so you don't manually need to find them yourself.
+
+Q5: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A5: You would want to make changes in a separate branch when you are creating something new so that you aren't creating any conflicts with the master branch as people are fixing bugs with the master branch. Working on a separate branch is safer, more collaborative, but is slower than working on the master branch.
