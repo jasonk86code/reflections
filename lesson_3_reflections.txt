@@ -6,3 +6,6 @@ A2: Forks only exist on GitHub and allow you to copy a GitHub repository to your
 
 Q3: What is the benefit of having a copy of the last known state of the remote stored locally?
 A3: When you're making edits you're less likely to have to deal with conflicts if your copy of remote is up to date. It's also convenient to do this before you are in an area where you might not be able to have internet access.
+
+Q4: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A4: Without using Git or Github you would have to manually check each file for conflicts and/or go over your changes with the people you are collaborating with. This could be pretty hard considering some code could be thousands or millions of lines long. Git makes this easier by auto-merging files that don't have conflicts and highlighting files that have conflicts so you don't manually need to find them yourself.
